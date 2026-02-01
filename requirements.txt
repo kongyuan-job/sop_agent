@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+langchain
+langchain-openai
+langgraph
+streamlit
+pandas
+psycopg2-binary
+sqlite3
+jinja2
+python-dotenv
